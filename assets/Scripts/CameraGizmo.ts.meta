@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "5c9dcadf-385d-4c64-9751-d6f658eb4c7d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/CameraGizmo.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

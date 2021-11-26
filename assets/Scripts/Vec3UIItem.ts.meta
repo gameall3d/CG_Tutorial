@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "08181454-7983-4210-a247-dcf0132a9dcd",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/Vec3UIItem.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

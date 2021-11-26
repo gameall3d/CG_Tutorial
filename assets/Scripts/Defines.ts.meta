@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2fe638f7-cd22-4b09-9fd5-cda7e741d66f",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/Defines.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}

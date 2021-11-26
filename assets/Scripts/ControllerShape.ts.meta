@@ -1,0 +1,14 @@
+{
+  "ver": "4.0.22",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "5b594cb3-19fb-4f89-bd7a-0b3661c56c2d",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Scripts/ControllerShape.js",
+    "importerSettings": 0,
+    "simulateGlobals": []
+  }
+}
